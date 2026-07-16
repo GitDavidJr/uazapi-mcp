@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .python-version
+
+# arquivo do MCP do Portainer que mora neste diretório por engano — não versionar
+tools.yaml
